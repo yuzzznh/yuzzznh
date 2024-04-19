@@ -1,4 +1,4 @@
-## Hello, I'm Yujin ✨
+## Hi! I'm Yujin✨
 An undergraduate student from Korea, interested in Gen AI.
 
 ### Languages & Tools
